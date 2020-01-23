@@ -1,0 +1,14 @@
+{
+  "name": "unit_testing_mocks_and_spies_kata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mocksAndSpies.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine": "^3.5.0"
+  }
+}
